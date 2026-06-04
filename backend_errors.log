@@ -1,0 +1,1457 @@
+2026-06-04 06:56:15,985 - [INFO] - server.py - Started server process [7888]
+2026-06-04 06:56:16,019 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 06:56:16,054 - [INFO] - on.py - Application startup complete.
+2026-06-04 06:56:16,056 - [INFO] - server.py - Shutting down
+2026-06-04 06:56:16,165 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 06:56:16,167 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 06:56:16,167 - [INFO] - server.py - Finished server process [7888]
+2026-06-04 06:56:22,131 - [INFO] - server.py - Started server process [11740]
+2026-06-04 06:56:22,174 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 06:56:22,192 - [INFO] - on.py - Application startup complete.
+2026-06-04 06:56:22,193 - [INFO] - server.py - Shutting down
+2026-06-04 06:56:22,297 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 06:56:22,297 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 06:56:22,301 - [INFO] - server.py - Finished server process [11740]
+2026-06-04 06:56:30,996 - [INFO] - server.py - Started server process [16956]
+2026-06-04 06:56:31,023 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 06:56:31,046 - [INFO] - on.py - Application startup complete.
+2026-06-04 06:56:31,050 - [INFO] - server.py - Shutting down
+2026-06-04 06:56:31,155 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 06:56:31,155 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 06:56:31,155 - [INFO] - server.py - Finished server process [16956]
+2026-06-04 06:56:39,172 - [INFO] - server.py - Started server process [19484]
+2026-06-04 06:56:39,178 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 06:56:39,214 - [INFO] - on.py - Application startup complete.
+2026-06-04 06:59:09,325 - [INFO] - server.py - Shutting down
+2026-06-04 06:59:09,437 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 06:59:09,438 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 06:59:09,438 - [INFO] - server.py - Finished server process [19484]
+2026-06-04 06:59:18,167 - [INFO] - server.py - Started server process [5944]
+2026-06-04 06:59:18,174 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 06:59:18,190 - [INFO] - on.py - Application startup complete.
+2026-06-04 06:59:41,570 - [INFO] - server.py - Shutting down
+2026-06-04 06:59:41,676 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 06:59:41,679 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 06:59:41,681 - [INFO] - server.py - Finished server process [5944]
+2026-06-04 06:59:50,481 - [INFO] - server.py - Started server process [9960]
+2026-06-04 06:59:50,498 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 06:59:50,516 - [INFO] - on.py - Application startup complete.
+2026-06-04 06:59:59,336 - [INFO] - server.py - Shutting down
+2026-06-04 06:59:59,453 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 06:59:59,456 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 06:59:59,459 - [INFO] - server.py - Finished server process [9960]
+2026-06-04 07:00:08,607 - [INFO] - server.py - Started server process [20020]
+2026-06-04 07:00:08,623 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:00:08,641 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:00:56,360 - [INFO] - server.py - Shutting down
+2026-06-04 07:00:56,465 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:00:56,467 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:00:56,471 - [INFO] - server.py - Finished server process [20020]
+2026-06-04 07:01:03,931 - [INFO] - server.py - Started server process [17716]
+2026-06-04 07:01:03,938 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:01:03,957 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:01:18,828 - [INFO] - server.py - Shutting down
+2026-06-04 07:01:18,936 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:01:18,940 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:01:18,942 - [INFO] - server.py - Finished server process [17716]
+2026-06-04 07:01:27,907 - [INFO] - server.py - Started server process [12192]
+2026-06-04 07:01:27,917 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:01:27,934 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:05:18,074 - [INFO] - server.py - Shutting down
+2026-06-04 07:05:18,189 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:05:18,193 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:05:18,193 - [INFO] - server.py - Finished server process [12192]
+2026-06-04 07:05:26,040 - [INFO] - server.py - Started server process [16008]
+2026-06-04 07:05:26,061 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:05:26,073 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:05:39,746 - [INFO] - server.py - Shutting down
+2026-06-04 07:05:39,862 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:05:39,864 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:05:39,868 - [INFO] - server.py - Finished server process [16008]
+2026-06-04 07:05:46,016 - [INFO] - server.py - Started server process [20024]
+2026-06-04 07:05:46,020 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:05:46,020 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:05:46,032 - [INFO] - server.py - Shutting down
+2026-06-04 07:05:46,142 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:05:46,150 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:05:46,164 - [INFO] - server.py - Finished server process [20024]
+2026-06-04 07:05:54,583 - [INFO] - server.py - Started server process [1840]
+2026-06-04 07:05:54,597 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:05:54,618 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:06:04,864 - [INFO] - server.py - Shutting down
+2026-06-04 07:06:04,968 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:06:04,971 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:06:04,971 - [INFO] - server.py - Finished server process [1840]
+2026-06-04 07:06:22,672 - [INFO] - server.py - Started server process [9284]
+2026-06-04 07:06:22,678 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:06:22,688 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:06:22,688 - [INFO] - server.py - Shutting down
+2026-06-04 07:06:22,799 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:06:22,799 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:06:22,799 - [INFO] - server.py - Finished server process [9284]
+2026-06-04 07:06:29,312 - [INFO] - server.py - Started server process [18892]
+2026-06-04 07:06:29,320 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:06:29,353 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:06:45,822 - [INFO] - server.py - Shutting down
+2026-06-04 07:06:45,934 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:06:45,934 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:06:45,934 - [INFO] - server.py - Finished server process [18892]
+2026-06-04 07:06:59,241 - [INFO] - server.py - Started server process [20436]
+2026-06-04 07:06:59,257 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:06:59,273 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:08:57,191 - [INFO] - server.py - Shutting down
+2026-06-04 07:08:57,297 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:08:57,297 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:08:57,297 - [INFO] - server.py - Finished server process [20436]
+2026-06-04 07:09:53,941 - [INFO] - server.py - Started server process [16552]
+2026-06-04 07:09:53,955 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:09:53,969 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:09:53,972 - [INFO] - server.py - Shutting down
+2026-06-04 07:09:54,085 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:09:54,091 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:09:54,096 - [INFO] - server.py - Finished server process [16552]
+2026-06-04 07:09:59,935 - [INFO] - server.py - Started server process [19872]
+2026-06-04 07:09:59,942 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:09:59,955 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:09:59,955 - [INFO] - server.py - Shutting down
+2026-06-04 07:10:00,062 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:10:00,064 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:10:00,064 - [INFO] - server.py - Finished server process [19872]
+2026-06-04 07:10:05,535 - [INFO] - server.py - Started server process [1524]
+2026-06-04 07:10:05,539 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:10:05,556 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:10:06,856 - [INFO] - server.py - Shutting down
+2026-06-04 07:10:06,961 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:10:06,961 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:10:06,961 - [INFO] - server.py - Finished server process [1524]
+2026-06-04 07:10:16,756 - [INFO] - server.py - Started server process [7716]
+2026-06-04 07:10:16,756 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:10:16,770 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:10:16,770 - [INFO] - server.py - Shutting down
+2026-06-04 07:10:16,883 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:10:16,886 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:10:16,886 - [INFO] - server.py - Finished server process [7716]
+2026-06-04 07:10:23,632 - [INFO] - server.py - Started server process [8052]
+2026-06-04 07:10:23,634 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:10:23,650 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:16:49,040 - [INFO] - server.py - Shutting down
+2026-06-04 07:16:49,150 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:16:49,153 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:16:49,153 - [INFO] - server.py - Finished server process [8052]
+2026-06-04 07:16:55,636 - [INFO] - server.py - Started server process [20256]
+2026-06-04 07:16:55,650 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:16:55,668 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:18:09,332 - [INFO] - server.py - Shutting down
+2026-06-04 07:18:09,450 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:18:09,450 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:18:09,450 - [INFO] - server.py - Finished server process [20256]
+2026-06-04 07:18:15,022 - [INFO] - server.py - Started server process [2736]
+2026-06-04 07:18:15,033 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:18:15,044 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:18:15,045 - [INFO] - server.py - Shutting down
+2026-06-04 07:18:15,154 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:18:15,154 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:18:15,154 - [INFO] - server.py - Finished server process [2736]
+2026-06-04 07:19:24,493 - [INFO] - server.py - Started server process [6344]
+2026-06-04 07:19:24,498 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:19:24,504 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:19:27,860 - [INFO] - server.py - Shutting down
+2026-06-04 07:19:27,964 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:19:27,967 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:19:27,967 - [INFO] - server.py - Finished server process [6344]
+2026-06-04 07:20:02,050 - [INFO] - server.py - Started server process [12352]
+2026-06-04 07:20:02,055 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:20:02,065 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:20:02,065 - [INFO] - server.py - Shutting down
+2026-06-04 07:20:02,183 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:20:02,183 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:20:02,183 - [INFO] - server.py - Finished server process [12352]
+2026-06-04 07:20:13,707 - [INFO] - server.py - Started server process [16732]
+2026-06-04 07:20:13,713 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:20:13,725 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:20:19,389 - [INFO] - server.py - Shutting down
+2026-06-04 07:20:19,498 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:20:19,499 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:20:19,499 - [INFO] - server.py - Finished server process [16732]
+2026-06-04 07:20:24,669 - [INFO] - server.py - Started server process [19580]
+2026-06-04 07:20:24,669 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:20:24,681 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:20:25,445 - [INFO] - server.py - Shutting down
+2026-06-04 07:20:25,559 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:20:25,562 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:20:25,563 - [INFO] - server.py - Finished server process [19580]
+2026-06-04 07:20:30,270 - [INFO] - server.py - Started server process [19724]
+2026-06-04 07:20:30,277 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:20:30,285 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:20:30,290 - [INFO] - server.py - Shutting down
+2026-06-04 07:20:30,404 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:20:30,407 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:20:30,407 - [INFO] - server.py - Finished server process [19724]
+2026-06-04 07:20:35,889 - [INFO] - server.py - Started server process [17632]
+2026-06-04 07:20:35,906 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:20:35,919 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:20:35,919 - [INFO] - server.py - Shutting down
+2026-06-04 07:20:36,024 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:20:36,026 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:20:36,029 - [INFO] - server.py - Finished server process [17632]
+2026-06-04 07:20:45,051 - [INFO] - server.py - Started server process [18240]
+2026-06-04 07:20:45,051 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:20:45,060 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:20:46,466 - [INFO] - server.py - Shutting down
+2026-06-04 07:20:46,581 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:20:46,581 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:20:46,581 - [INFO] - server.py - Finished server process [18240]
+2026-06-04 07:20:51,730 - [INFO] - server.py - Started server process [11240]
+2026-06-04 07:20:51,740 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:20:51,745 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:20:51,748 - [INFO] - server.py - Shutting down
+2026-06-04 07:20:51,861 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:20:51,865 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:20:51,869 - [INFO] - server.py - Finished server process [11240]
+2026-06-04 07:21:29,813 - [INFO] - server.py - Started server process [11100]
+2026-06-04 07:21:29,828 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:21:29,830 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:21:29,830 - [INFO] - server.py - Shutting down
+2026-06-04 07:21:29,946 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:21:29,949 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:21:29,951 - [INFO] - server.py - Finished server process [11100]
+2026-06-04 07:21:34,963 - [INFO] - server.py - Started server process [20440]
+2026-06-04 07:21:34,970 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:21:34,971 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:21:34,980 - [INFO] - server.py - Shutting down
+2026-06-04 07:21:35,092 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:21:35,093 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:21:35,093 - [INFO] - server.py - Finished server process [20440]
+2026-06-04 07:21:40,423 - [INFO] - server.py - Started server process [980]
+2026-06-04 07:21:40,429 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:21:40,439 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:21:40,765 - [INFO] - server.py - Shutting down
+2026-06-04 07:21:40,873 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:21:40,873 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:21:40,873 - [INFO] - server.py - Finished server process [980]
+2026-06-04 07:21:46,002 - [INFO] - server.py - Started server process [19208]
+2026-06-04 07:21:46,010 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:21:46,019 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:21:46,019 - [INFO] - server.py - Shutting down
+2026-06-04 07:21:46,138 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:21:46,140 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:21:46,142 - [INFO] - server.py - Finished server process [19208]
+2026-06-04 07:21:52,714 - [INFO] - server.py - Started server process [20348]
+2026-06-04 07:21:52,721 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:21:52,725 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:21:53,162 - [INFO] - server.py - Shutting down
+2026-06-04 07:21:53,268 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:21:53,268 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:21:53,272 - [INFO] - server.py - Finished server process [20348]
+2026-06-04 07:21:58,796 - [INFO] - server.py - Started server process [14596]
+2026-06-04 07:21:58,798 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:21:58,812 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:21:58,812 - [INFO] - server.py - Shutting down
+2026-06-04 07:21:58,928 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:21:58,929 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:21:58,932 - [INFO] - server.py - Finished server process [14596]
+2026-06-04 07:22:04,473 - [INFO] - server.py - Started server process [16448]
+2026-06-04 07:22:04,474 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:22:04,488 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:22:04,489 - [INFO] - server.py - Shutting down
+2026-06-04 07:22:04,594 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:22:04,594 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:22:04,594 - [INFO] - server.py - Finished server process [16448]
+2026-06-04 07:22:11,089 - [INFO] - server.py - Started server process [15952]
+2026-06-04 07:22:11,105 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:22:11,105 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:24:38,903 - [INFO] - server.py - Shutting down
+2026-06-04 07:24:39,007 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:24:39,011 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:24:39,012 - [INFO] - server.py - Finished server process [15952]
+2026-06-04 07:24:46,251 - [INFO] - server.py - Started server process [15416]
+2026-06-04 07:24:46,265 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:24:46,281 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:25:06,400 - [INFO] - server.py - Shutting down
+2026-06-04 07:25:06,508 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:25:06,511 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:25:06,513 - [INFO] - server.py - Finished server process [15416]
+2026-06-04 07:25:13,388 - [INFO] - server.py - Started server process [12572]
+2026-06-04 07:25:13,404 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:25:13,414 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:25:25,458 - [INFO] - server.py - Shutting down
+2026-06-04 07:25:25,567 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:25:25,570 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:25:25,570 - [INFO] - server.py - Finished server process [12572]
+2026-06-04 07:25:30,467 - [INFO] - server.py - Started server process [12308]
+2026-06-04 07:25:30,473 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:25:30,482 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:25:30,484 - [INFO] - server.py - Shutting down
+2026-06-04 07:25:30,602 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:25:30,602 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:25:30,606 - [INFO] - server.py - Finished server process [12308]
+2026-06-04 07:25:36,414 - [INFO] - server.py - Started server process [15016]
+2026-06-04 07:25:36,426 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:25:36,435 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:25:37,082 - [INFO] - server.py - Shutting down
+2026-06-04 07:25:37,199 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:25:37,203 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:25:37,204 - [INFO] - server.py - Finished server process [15016]
+2026-06-04 07:25:43,621 - [INFO] - server.py - Started server process [4800]
+2026-06-04 07:25:43,627 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:25:43,638 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:25:51,475 - [INFO] - server.py - Shutting down
+2026-06-04 07:25:51,575 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:25:51,575 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:25:51,575 - [INFO] - server.py - Finished server process [4800]
+2026-06-04 07:25:57,071 - [INFO] - server.py - Started server process [14616]
+2026-06-04 07:25:57,088 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:25:57,107 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:25:57,111 - [INFO] - server.py - Shutting down
+2026-06-04 07:25:57,215 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:25:57,215 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:25:57,220 - [INFO] - server.py - Finished server process [14616]
+2026-06-04 07:26:03,690 - [INFO] - server.py - Started server process [17536]
+2026-06-04 07:26:03,704 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:26:03,722 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:26:23,506 - [INFO] - server.py - Shutting down
+2026-06-04 07:26:23,612 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:26:23,614 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:26:23,614 - [INFO] - server.py - Finished server process [17536]
+2026-06-04 07:26:30,758 - [INFO] - server.py - Started server process [20396]
+2026-06-04 07:26:30,765 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:26:30,765 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:26:30,772 - [INFO] - server.py - Shutting down
+2026-06-04 07:26:30,887 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:26:30,887 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:26:30,887 - [INFO] - server.py - Finished server process [20396]
+2026-06-04 07:26:40,599 - [INFO] - server.py - Started server process [328]
+2026-06-04 07:26:40,605 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:26:40,615 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:26:40,616 - [INFO] - server.py - Shutting down
+2026-06-04 07:26:40,718 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:26:40,719 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:26:40,719 - [INFO] - server.py - Finished server process [328]
+2026-06-04 07:26:46,143 - [INFO] - server.py - Started server process [6296]
+2026-06-04 07:26:46,146 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:26:46,157 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:26:46,157 - [INFO] - server.py - Shutting down
+2026-06-04 07:26:46,258 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:26:46,258 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:26:46,258 - [INFO] - server.py - Finished server process [6296]
+2026-06-04 07:26:53,454 - [INFO] - server.py - Started server process [18280]
+2026-06-04 07:26:53,470 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:26:53,470 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:26:53,470 - [INFO] - server.py - Shutting down
+2026-06-04 07:26:53,600 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:26:53,602 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:26:53,605 - [INFO] - server.py - Finished server process [18280]
+2026-06-04 07:26:58,826 - [INFO] - server.py - Started server process [7676]
+2026-06-04 07:26:58,834 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:26:58,841 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:27:03,947 - [INFO] - server.py - Shutting down
+2026-06-04 07:27:04,051 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:27:04,052 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:27:04,060 - [INFO] - server.py - Finished server process [7676]
+2026-06-04 07:27:10,059 - [INFO] - server.py - Started server process [18284]
+2026-06-04 07:27:10,077 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:27:10,082 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:27:11,157 - [INFO] - server.py - Shutting down
+2026-06-04 07:27:11,275 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:27:11,279 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:27:11,281 - [INFO] - server.py - Finished server process [18284]
+2026-06-04 07:27:23,976 - [INFO] - server.py - Started server process [19532]
+2026-06-04 07:27:23,984 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:27:23,987 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:27:30,449 - [INFO] - server.py - Shutting down
+2026-06-04 07:27:30,566 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:27:30,570 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:27:30,573 - [INFO] - server.py - Finished server process [19532]
+2026-06-04 07:28:03,007 - [INFO] - server.py - Started server process [19896]
+2026-06-04 07:28:03,025 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:28:03,033 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:28:03,033 - [INFO] - server.py - Shutting down
+2026-06-04 07:28:03,150 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:28:03,152 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:28:03,152 - [INFO] - server.py - Finished server process [19896]
+2026-06-04 07:28:09,599 - [INFO] - server.py - Started server process [8608]
+2026-06-04 07:28:09,605 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:28:09,617 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:28:09,621 - [INFO] - server.py - Shutting down
+2026-06-04 07:28:09,730 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:28:09,751 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:28:09,755 - [INFO] - server.py - Finished server process [8608]
+2026-06-04 07:28:14,895 - [INFO] - server.py - Started server process [9144]
+2026-06-04 07:28:14,904 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:28:14,917 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:28:23,442 - [INFO] - server.py - Shutting down
+2026-06-04 07:28:23,553 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:28:23,593 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:28:23,599 - [INFO] - server.py - Finished server process [9144]
+2026-06-04 07:28:29,263 - [INFO] - server.py - Started server process [15500]
+2026-06-04 07:28:29,267 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:28:29,267 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:28:29,267 - [INFO] - server.py - Shutting down
+2026-06-04 07:28:29,390 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:28:29,391 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:28:29,391 - [INFO] - server.py - Finished server process [15500]
+2026-06-04 07:28:39,871 - [INFO] - server.py - Started server process [16216]
+2026-06-04 07:28:39,874 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:28:39,886 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:28:39,891 - [INFO] - server.py - Shutting down
+2026-06-04 07:28:39,997 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:28:39,997 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:28:39,997 - [INFO] - server.py - Finished server process [16216]
+2026-06-04 07:28:46,716 - [INFO] - server.py - Started server process [6064]
+2026-06-04 07:28:46,721 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:28:46,732 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:28:53,023 - [INFO] - server.py - Shutting down
+2026-06-04 07:28:53,138 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:28:53,141 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:28:53,146 - [INFO] - server.py - Finished server process [6064]
+2026-06-04 07:29:06,560 - [INFO] - server.py - Started server process [12200]
+2026-06-04 07:29:06,565 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:29:06,572 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:29:06,577 - [INFO] - server.py - Shutting down
+2026-06-04 07:29:06,681 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:29:06,684 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:29:06,685 - [INFO] - server.py - Finished server process [12200]
+2026-06-04 07:29:12,514 - [INFO] - server.py - Started server process [11256]
+2026-06-04 07:29:12,522 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:29:12,522 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:29:12,522 - [INFO] - server.py - Shutting down
+2026-06-04 07:29:12,651 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:29:12,652 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:29:12,657 - [INFO] - server.py - Finished server process [11256]
+2026-06-04 07:29:18,451 - [INFO] - server.py - Started server process [11208]
+2026-06-04 07:29:18,456 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:29:18,469 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:29:19,669 - [INFO] - server.py - Shutting down
+2026-06-04 07:29:19,776 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:29:19,779 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:29:19,779 - [INFO] - server.py - Finished server process [11208]
+2026-06-04 07:29:25,413 - [INFO] - server.py - Started server process [19204]
+2026-06-04 07:29:25,426 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:29:25,434 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:29:25,434 - [INFO] - server.py - Shutting down
+2026-06-04 07:29:25,539 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:29:25,539 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:29:25,539 - [INFO] - server.py - Finished server process [19204]
+2026-06-04 07:29:32,452 - [INFO] - server.py - Started server process [16820]
+2026-06-04 07:29:32,459 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:29:32,468 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:29:42,139 - [INFO] - server.py - Shutting down
+2026-06-04 07:29:42,246 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:29:42,250 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:29:42,250 - [INFO] - server.py - Finished server process [16820]
+2026-06-04 07:29:48,126 - [INFO] - server.py - Started server process [12340]
+2026-06-04 07:29:48,141 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:29:48,158 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:29:48,160 - [INFO] - server.py - Shutting down
+2026-06-04 07:29:48,274 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:29:48,274 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:29:48,278 - [INFO] - server.py - Finished server process [12340]
+2026-06-04 07:30:13,999 - [INFO] - server.py - Started server process [8496]
+2026-06-04 07:30:14,010 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:30:14,027 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:30:14,033 - [INFO] - server.py - Shutting down
+2026-06-04 07:30:14,141 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:30:14,141 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:30:14,141 - [INFO] - server.py - Finished server process [8496]
+2026-06-04 07:30:20,444 - [INFO] - server.py - Started server process [15764]
+2026-06-04 07:30:20,452 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:30:20,463 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:30:20,910 - [INFO] - server.py - Shutting down
+2026-06-04 07:30:21,015 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:30:21,015 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:30:21,018 - [INFO] - server.py - Finished server process [15764]
+2026-06-04 07:30:26,213 - [INFO] - server.py - Started server process [13924]
+2026-06-04 07:30:26,234 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:30:26,234 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:30:26,234 - [INFO] - server.py - Shutting down
+2026-06-04 07:30:26,347 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:30:26,350 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:30:26,350 - [INFO] - server.py - Finished server process [13924]
+2026-06-04 07:30:32,871 - [INFO] - server.py - Started server process [17424]
+2026-06-04 07:30:32,882 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:30:32,890 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:30:32,890 - [INFO] - server.py - Shutting down
+2026-06-04 07:30:33,010 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:30:33,010 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:30:33,010 - [INFO] - server.py - Finished server process [17424]
+2026-06-04 07:30:38,957 - [INFO] - server.py - Started server process [14388]
+2026-06-04 07:30:38,975 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:30:38,979 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:30:38,979 - [INFO] - server.py - Shutting down
+2026-06-04 07:30:39,099 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:30:39,099 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:30:39,099 - [INFO] - server.py - Finished server process [14388]
+2026-06-04 07:30:45,024 - [INFO] - server.py - Started server process [10796]
+2026-06-04 07:30:45,036 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:30:45,041 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:30:45,041 - [INFO] - server.py - Shutting down
+2026-06-04 07:30:45,153 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:30:45,157 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:30:45,158 - [INFO] - server.py - Finished server process [10796]
+2026-06-04 07:30:51,434 - [INFO] - server.py - Started server process [9940]
+2026-06-04 07:30:51,451 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:30:51,465 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:30:53,707 - [INFO] - server.py - Shutting down
+2026-06-04 07:30:53,822 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:30:53,826 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:30:53,826 - [INFO] - server.py - Finished server process [9940]
+2026-06-04 07:31:08,048 - [INFO] - server.py - Started server process [3280]
+2026-06-04 07:31:08,100 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:31:08,180 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:31:08,187 - [INFO] - server.py - Shutting down
+2026-06-04 07:31:08,318 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:31:08,328 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:31:08,339 - [INFO] - server.py - Finished server process [3280]
+2026-06-04 07:31:18,006 - [INFO] - server.py - Started server process [16984]
+2026-06-04 07:31:18,009 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:31:18,033 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:31:41,091 - [INFO] - server.py - Shutting down
+2026-06-04 07:31:41,204 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:31:41,204 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:31:41,204 - [INFO] - server.py - Finished server process [16984]
+2026-06-04 07:31:48,308 - [INFO] - server.py - Started server process [7320]
+2026-06-04 07:31:48,329 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:31:48,354 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:32:52,941 - [INFO] - server.py - Shutting down
+2026-06-04 07:32:53,046 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:32:53,046 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:32:53,046 - [INFO] - server.py - Finished server process [7320]
+2026-06-04 07:33:05,525 - [INFO] - server.py - Started server process [8624]
+2026-06-04 07:33:05,538 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:33:05,543 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:33:05,557 - [INFO] - server.py - Shutting down
+2026-06-04 07:33:05,659 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:33:05,659 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:33:05,659 - [INFO] - server.py - Finished server process [8624]
+2026-06-04 07:33:11,883 - [INFO] - server.py - Started server process [15008]
+2026-06-04 07:33:11,895 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:33:11,909 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:36:11,469 - [INFO] - server.py - Shutting down
+2026-06-04 07:36:11,569 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:36:11,571 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:36:11,571 - [INFO] - server.py - Finished server process [15008]
+2026-06-04 07:36:17,678 - [INFO] - server.py - Started server process [2876]
+2026-06-04 07:36:17,688 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:36:17,702 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:36:17,702 - [INFO] - server.py - Shutting down
+2026-06-04 07:36:17,803 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:36:17,807 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:36:17,809 - [INFO] - server.py - Finished server process [2876]
+2026-06-04 07:36:22,543 - [INFO] - server.py - Started server process [13024]
+2026-06-04 07:36:22,553 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:36:22,561 - [INFO] - on.py - Application startup complete.
+2026-06-04 07:36:25,379 - [INFO] - server.py - Shutting down
+2026-06-04 07:36:25,487 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 07:36:25,489 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 07:36:25,491 - [INFO] - server.py - Finished server process [13024]
+2026-06-04 07:36:32,502 - [INFO] - server.py - Started server process [6344]
+2026-06-04 07:36:32,502 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 07:36:32,517 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:04:40,489 - [INFO] - server.py - Shutting down
+2026-06-04 09:04:40,768 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:04:40,794 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:04:40,800 - [INFO] - server.py - Finished server process [6344]
+2026-06-04 09:04:59,894 - [INFO] - server.py - Started server process [19436]
+2026-06-04 09:04:59,911 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:04:59,934 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:04:59,934 - [INFO] - server.py - Shutting down
+2026-06-04 09:05:00,040 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:05:00,044 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:05:00,044 - [INFO] - server.py - Finished server process [19436]
+2026-06-04 09:05:08,612 - [INFO] - server.py - Started server process [18572]
+2026-06-04 09:05:08,622 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:05:08,630 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:05:08,957 - [INFO] - server.py - Shutting down
+2026-06-04 09:05:09,070 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:05:09,070 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:05:09,073 - [INFO] - server.py - Finished server process [18572]
+2026-06-04 09:05:14,575 - [INFO] - server.py - Started server process [6100]
+2026-06-04 09:05:14,583 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:05:14,595 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:05:14,599 - [INFO] - server.py - Shutting down
+2026-06-04 09:05:14,704 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:05:14,708 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:05:14,708 - [INFO] - server.py - Finished server process [6100]
+2026-06-04 09:05:20,578 - [INFO] - server.py - Started server process [20992]
+2026-06-04 09:05:20,589 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:05:20,600 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:05:20,600 - [INFO] - server.py - Shutting down
+2026-06-04 09:05:20,715 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:05:20,717 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:05:20,719 - [INFO] - server.py - Finished server process [20992]
+2026-06-04 09:05:26,477 - [INFO] - server.py - Started server process [17632]
+2026-06-04 09:05:26,480 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:05:26,494 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:05:26,496 - [INFO] - server.py - Shutting down
+2026-06-04 09:05:26,602 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:05:26,602 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:05:26,602 - [INFO] - server.py - Finished server process [17632]
+2026-06-04 09:05:32,085 - [INFO] - server.py - Started server process [21452]
+2026-06-04 09:05:32,102 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:05:32,108 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:05:32,112 - [INFO] - server.py - Shutting down
+2026-06-04 09:05:32,223 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:05:32,223 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:05:32,223 - [INFO] - server.py - Finished server process [21452]
+2026-06-04 09:05:37,377 - [INFO] - server.py - Started server process [8340]
+2026-06-04 09:05:37,396 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:05:37,434 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:05:37,438 - [INFO] - server.py - Shutting down
+2026-06-04 09:05:37,548 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:05:37,548 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:05:37,548 - [INFO] - server.py - Finished server process [8340]
+2026-06-04 09:05:44,419 - [INFO] - server.py - Started server process [13892]
+2026-06-04 09:05:44,429 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:05:44,446 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:05:54,306 - [INFO] - server.py - Shutting down
+2026-06-04 09:05:54,420 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:05:54,423 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:05:54,424 - [INFO] - server.py - Finished server process [13892]
+2026-06-04 09:06:01,348 - [INFO] - server.py - Started server process [15968]
+2026-06-04 09:06:01,364 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:06:01,382 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:11:20,224 - [INFO] - server.py - Shutting down
+2026-06-04 09:11:20,336 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:11:20,341 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:11:20,345 - [INFO] - server.py - Finished server process [15968]
+2026-06-04 09:11:34,061 - [INFO] - server.py - Started server process [3416]
+2026-06-04 09:11:34,077 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:11:34,093 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:11:42,903 - [INFO] - server.py - Shutting down
+2026-06-04 09:11:43,018 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:11:43,018 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:11:43,018 - [INFO] - server.py - Finished server process [3416]
+2026-06-04 09:11:55,574 - [INFO] - server.py - Started server process [20108]
+2026-06-04 09:11:55,589 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:11:55,607 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:12:08,563 - [INFO] - server.py - Shutting down
+2026-06-04 09:12:08,667 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:12:08,667 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:12:08,667 - [INFO] - server.py - Finished server process [20108]
+2026-06-04 09:12:13,721 - [INFO] - server.py - Started server process [18204]
+2026-06-04 09:12:13,721 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:12:13,741 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:13:30,720 - [INFO] - server.py - Shutting down
+2026-06-04 09:13:30,835 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:13:30,838 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:13:30,841 - [INFO] - server.py - Finished server process [18204]
+2026-06-04 09:13:41,181 - [INFO] - server.py - Started server process [6064]
+2026-06-04 09:13:41,195 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:13:41,218 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:13:41,220 - [INFO] - server.py - Shutting down
+2026-06-04 09:13:41,325 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:13:41,325 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:13:41,331 - [INFO] - server.py - Finished server process [6064]
+2026-06-04 09:13:53,734 - [INFO] - server.py - Started server process [18356]
+2026-06-04 09:13:53,750 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:13:53,768 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:13:53,771 - [INFO] - server.py - Shutting down
+2026-06-04 09:13:53,879 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:13:53,879 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:13:53,879 - [INFO] - server.py - Finished server process [18356]
+2026-06-04 09:14:04,187 - [INFO] - server.py - Started server process [19496]
+2026-06-04 09:14:04,203 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:14:04,222 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:14:04,222 - [INFO] - server.py - Shutting down
+2026-06-04 09:14:04,329 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:14:04,333 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:14:04,333 - [INFO] - server.py - Finished server process [19496]
+2026-06-04 09:14:15,544 - [INFO] - server.py - Started server process [19112]
+2026-06-04 09:14:15,563 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:14:15,583 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:14:15,585 - [INFO] - server.py - Shutting down
+2026-06-04 09:14:15,692 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:14:15,695 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:14:15,698 - [INFO] - server.py - Finished server process [19112]
+2026-06-04 09:14:24,340 - [INFO] - server.py - Started server process [20896]
+2026-06-04 09:14:24,350 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:14:24,366 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:14:32,376 - [INFO] - server.py - Shutting down
+2026-06-04 09:14:32,488 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:14:32,490 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:14:32,492 - [INFO] - server.py - Finished server process [20896]
+2026-06-04 09:16:34,153 - [INFO] - server.py - Started server process [13572]
+2026-06-04 09:16:34,168 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:16:34,181 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:17:06,535 - [INFO] - server.py - Shutting down
+2026-06-04 09:17:06,649 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:17:06,653 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:17:06,657 - [INFO] - server.py - Finished server process [13572]
+2026-06-04 09:17:12,099 - [INFO] - server.py - Started server process [3732]
+2026-06-04 09:17:12,110 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:17:12,121 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:17:13,193 - [INFO] - server.py - Shutting down
+2026-06-04 09:17:13,294 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:17:13,296 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:17:13,299 - [INFO] - server.py - Finished server process [3732]
+2026-06-04 09:17:18,229 - [INFO] - server.py - Started server process [16412]
+2026-06-04 09:17:18,237 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:17:18,249 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:17:19,224 - [INFO] - server.py - Shutting down
+2026-06-04 09:17:19,328 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:17:19,328 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:17:19,331 - [INFO] - server.py - Finished server process [16412]
+2026-06-04 09:17:41,182 - [INFO] - server.py - Started server process [7180]
+2026-06-04 09:17:41,196 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:17:41,203 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:17:41,203 - [INFO] - server.py - Shutting down
+2026-06-04 09:17:41,317 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:17:41,317 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:17:41,317 - [INFO] - server.py - Finished server process [7180]
+2026-06-04 09:17:46,403 - [INFO] - server.py - Started server process [19104]
+2026-06-04 09:17:46,409 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:17:46,418 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:17:46,419 - [INFO] - server.py - Shutting down
+2026-06-04 09:17:46,523 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:17:46,525 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:17:46,527 - [INFO] - server.py - Finished server process [19104]
+2026-06-04 09:21:54,656 - [INFO] - server.py - Started server process [14324]
+2026-06-04 09:21:54,664 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:21:54,685 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:21:54,689 - [INFO] - server.py - Shutting down
+2026-06-04 09:21:54,810 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:21:54,811 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:21:54,811 - [INFO] - server.py - Finished server process [14324]
+2026-06-04 09:22:03,254 - [INFO] - server.py - Started server process [20288]
+2026-06-04 09:22:03,264 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:22:03,282 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:22:12,894 - [INFO] - server.py - Shutting down
+2026-06-04 09:22:13,012 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:22:13,012 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:22:13,012 - [INFO] - server.py - Finished server process [20288]
+2026-06-04 09:22:49,343 - [INFO] - server.py - Started server process [8960]
+2026-06-04 09:22:49,354 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:22:49,364 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:22:50,862 - [INFO] - server.py - Shutting down
+2026-06-04 09:22:50,970 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:22:50,970 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:22:50,970 - [INFO] - server.py - Finished server process [8960]
+2026-06-04 09:22:56,264 - [INFO] - server.py - Started server process [12352]
+2026-06-04 09:22:56,269 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:22:56,277 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:22:56,277 - [INFO] - server.py - Shutting down
+2026-06-04 09:22:56,398 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:22:56,401 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:22:56,402 - [INFO] - server.py - Finished server process [12352]
+2026-06-04 09:23:01,798 - [INFO] - server.py - Started server process [19308]
+2026-06-04 09:23:01,804 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:23:01,810 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:23:01,814 - [INFO] - server.py - Shutting down
+2026-06-04 09:23:01,922 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:23:01,924 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:23:01,924 - [INFO] - server.py - Finished server process [19308]
+2026-06-04 09:23:06,800 - [INFO] - server.py - Started server process [15384]
+2026-06-04 09:23:06,808 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:23:06,818 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:23:07,356 - [INFO] - server.py - Shutting down
+2026-06-04 09:23:07,461 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:23:07,465 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:23:07,466 - [INFO] - server.py - Finished server process [15384]
+2026-06-04 09:23:12,864 - [INFO] - server.py - Started server process [17280]
+2026-06-04 09:23:12,880 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:23:12,881 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:23:23,820 - [INFO] - server.py - Shutting down
+2026-06-04 09:23:23,927 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:23:23,930 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:23:23,931 - [INFO] - server.py - Finished server process [17280]
+2026-06-04 09:23:29,199 - [INFO] - server.py - Started server process [20160]
+2026-06-04 09:23:29,203 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:23:29,213 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:23:29,552 - [INFO] - server.py - Shutting down
+2026-06-04 09:23:29,661 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:23:29,661 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:23:29,661 - [INFO] - server.py - Finished server process [20160]
+2026-06-04 09:23:34,345 - [INFO] - server.py - Started server process [776]
+2026-06-04 09:23:34,351 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:23:34,353 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:23:47,852 - [INFO] - server.py - Shutting down
+2026-06-04 09:23:47,960 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:23:47,964 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:23:47,964 - [INFO] - server.py - Finished server process [776]
+2026-06-04 09:23:52,508 - [INFO] - server.py - Started server process [21104]
+2026-06-04 09:23:52,508 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:23:52,517 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:24:21,607 - [INFO] - server.py - Shutting down
+2026-06-04 09:24:21,722 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:24:21,723 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:24:21,723 - [INFO] - server.py - Finished server process [21104]
+2026-06-04 09:24:31,100 - [INFO] - server.py - Started server process [20180]
+2026-06-04 09:24:31,111 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:24:31,135 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:24:31,141 - [INFO] - server.py - Shutting down
+2026-06-04 09:24:31,256 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:24:31,256 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:24:31,256 - [INFO] - server.py - Finished server process [20180]
+2026-06-04 09:24:40,863 - [INFO] - server.py - Started server process [16560]
+2026-06-04 09:24:40,879 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:24:40,899 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:24:40,899 - [INFO] - server.py - Shutting down
+2026-06-04 09:24:41,010 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:24:41,012 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:24:41,012 - [INFO] - server.py - Finished server process [16560]
+2026-06-04 09:24:50,457 - [INFO] - server.py - Started server process [13792]
+2026-06-04 09:24:50,470 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:24:50,486 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:24:53,104 - [INFO] - server.py - Shutting down
+2026-06-04 09:24:53,218 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:24:53,220 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:24:53,225 - [INFO] - server.py - Finished server process [13792]
+2026-06-04 09:25:01,712 - [INFO] - server.py - Started server process [21276]
+2026-06-04 09:25:01,717 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:25:01,741 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:25:58,027 - [INFO] - server.py - Shutting down
+2026-06-04 09:25:58,134 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:25:58,138 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:25:58,138 - [INFO] - server.py - Finished server process [21276]
+2026-06-04 09:26:07,235 - [INFO] - server.py - Started server process [21140]
+2026-06-04 09:26:07,254 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:26:07,269 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:27:49,881 - [INFO] - models.py - AFC is enabled with max remote calls: 10.
+2026-06-04 09:30:03,566 - [INFO] - server.py - Shutting down
+2026-06-04 09:30:03,675 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:30:03,675 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:30:03,675 - [INFO] - server.py - Finished server process [21140]
+2026-06-04 09:30:14,775 - [INFO] - server.py - Started server process [20328]
+2026-06-04 09:30:14,799 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:30:14,815 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:30:20,656 - [INFO] - server.py - Shutting down
+2026-06-04 09:30:20,772 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:30:20,775 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:30:20,777 - [INFO] - server.py - Finished server process [20328]
+2026-06-04 09:30:32,394 - [INFO] - server.py - Started server process [7752]
+2026-06-04 09:30:32,412 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:30:32,428 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:30:32,439 - [INFO] - server.py - Shutting down
+2026-06-04 09:30:32,549 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:30:32,552 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:30:32,555 - [INFO] - server.py - Finished server process [7752]
+2026-06-04 09:30:39,293 - [INFO] - server.py - Started server process [16180]
+2026-06-04 09:30:39,310 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:30:39,328 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:30:56,342 - [INFO] - server.py - Shutting down
+2026-06-04 09:30:56,456 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:30:56,458 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:30:56,464 - [INFO] - server.py - Finished server process [16180]
+2026-06-04 09:31:03,665 - [INFO] - server.py - Started server process [15952]
+2026-06-04 09:31:03,686 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:31:03,714 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:31:03,714 - [INFO] - server.py - Shutting down
+2026-06-04 09:31:03,824 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:31:03,826 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:31:03,833 - [INFO] - server.py - Finished server process [15952]
+2026-06-04 09:31:20,874 - [INFO] - server.py - Started server process [16744]
+2026-06-04 09:31:20,874 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:31:20,886 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:33:17,089 - [INFO] - server.py - Shutting down
+2026-06-04 09:33:17,200 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:33:17,206 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:33:17,210 - [INFO] - server.py - Finished server process [16744]
+2026-06-04 09:33:29,908 - [INFO] - server.py - Started server process [19604]
+2026-06-04 09:33:29,923 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:33:29,947 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:33:29,947 - [INFO] - server.py - Shutting down
+2026-06-04 09:33:30,055 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:33:30,057 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:33:30,057 - [INFO] - server.py - Finished server process [19604]
+2026-06-04 09:33:36,561 - [INFO] - server.py - Started server process [13820]
+2026-06-04 09:33:36,579 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:33:36,603 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:33:54,797 - [INFO] - server.py - Shutting down
+2026-06-04 09:33:54,906 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:33:54,908 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:33:54,908 - [INFO] - server.py - Finished server process [13820]
+2026-06-04 09:34:00,919 - [INFO] - server.py - Started server process [192]
+2026-06-04 09:34:00,929 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:34:00,942 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:34:20,356 - [INFO] - server.py - Shutting down
+2026-06-04 09:34:20,462 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:34:20,462 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:34:20,462 - [INFO] - server.py - Finished server process [192]
+2026-06-04 09:34:25,395 - [INFO] - server.py - Started server process [11924]
+2026-06-04 09:34:25,406 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:34:25,415 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:35:03,850 - [INFO] - server.py - Shutting down
+2026-06-04 09:35:03,951 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:35:03,956 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:35:03,956 - [INFO] - server.py - Finished server process [11924]
+2026-06-04 09:35:17,289 - [INFO] - server.py - Started server process [8444]
+2026-06-04 09:35:17,307 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:35:17,338 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:35:29,464 - [INFO] - server.py - Shutting down
+2026-06-04 09:35:29,571 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:35:29,575 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:35:29,578 - [INFO] - server.py - Finished server process [8444]
+2026-06-04 09:35:40,697 - [INFO] - server.py - Started server process [14008]
+2026-06-04 09:35:40,705 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:35:40,725 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:35:40,729 - [INFO] - server.py - Shutting down
+2026-06-04 09:35:40,836 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:35:40,836 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:35:40,844 - [INFO] - server.py - Finished server process [14008]
+2026-06-04 09:35:53,246 - [INFO] - server.py - Started server process [20640]
+2026-06-04 09:35:53,262 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:35:53,292 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:35:56,512 - [INFO] - server.py - Shutting down
+2026-06-04 09:35:56,612 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:35:56,612 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:35:56,621 - [INFO] - server.py - Finished server process [20640]
+2026-06-04 09:36:05,263 - [INFO] - server.py - Started server process [13048]
+2026-06-04 09:36:05,273 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:36:05,291 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:36:54,686 - [INFO] - server.py - Shutting down
+2026-06-04 09:36:54,791 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:36:54,795 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:36:54,799 - [INFO] - server.py - Finished server process [13048]
+2026-06-04 09:37:09,416 - [INFO] - server.py - Started server process [10716]
+2026-06-04 09:37:09,432 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:37:09,478 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:37:46,719 - [INFO] - server.py - Shutting down
+2026-06-04 09:37:46,834 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:37:46,838 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:37:46,838 - [INFO] - server.py - Finished server process [10716]
+2026-06-04 09:37:57,470 - [INFO] - server.py - Started server process [12212]
+2026-06-04 09:37:57,481 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:37:57,495 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:38:00,019 - [INFO] - search_engine.py -  Cache Hit: Found semantic match with distance -0.0000. Bypassing Gemini.
+2026-06-04 09:42:03,185 - [INFO] - server.py - Shutting down
+2026-06-04 09:42:03,300 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:42:03,302 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:42:03,305 - [INFO] - server.py - Finished server process [12212]
+2026-06-04 09:42:14,000 - [INFO] - server.py - Started server process [3416]
+2026-06-04 09:42:14,014 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:42:14,016 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:42:14,032 - [INFO] - server.py - Shutting down
+2026-06-04 09:42:14,141 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:42:14,141 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:42:14,141 - [INFO] - server.py - Finished server process [3416]
+2026-06-04 09:42:41,354 - [INFO] - server.py - Started server process [20560]
+2026-06-04 09:42:41,371 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:42:41,389 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:42:41,397 - [INFO] - server.py - Shutting down
+2026-06-04 09:42:41,498 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:42:41,503 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:42:41,507 - [INFO] - server.py - Finished server process [20560]
+2026-06-04 09:42:47,867 - [INFO] - server.py - Started server process [20292]
+2026-06-04 09:42:47,870 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:42:47,881 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:42:53,540 - [INFO] - server.py - Shutting down
+2026-06-04 09:42:53,641 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:42:53,645 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:42:53,646 - [INFO] - server.py - Finished server process [20292]
+2026-06-04 09:43:21,925 - [INFO] - server.py - Started server process [13216]
+2026-06-04 09:43:21,941 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:43:21,946 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:43:31,897 - [INFO] - server.py - Shutting down
+2026-06-04 09:43:32,005 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:43:32,005 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:43:32,012 - [INFO] - server.py - Finished server process [13216]
+2026-06-04 09:43:37,145 - [INFO] - server.py - Started server process [8784]
+2026-06-04 09:43:37,153 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:43:37,163 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:43:39,012 - [INFO] - server.py - Shutting down
+2026-06-04 09:43:39,130 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:43:39,132 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:43:39,133 - [INFO] - server.py - Finished server process [8784]
+2026-06-04 09:43:44,841 - [INFO] - server.py - Started server process [6492]
+2026-06-04 09:43:44,856 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:43:44,870 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:43:44,870 - [INFO] - server.py - Shutting down
+2026-06-04 09:43:44,979 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:43:44,984 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:43:44,985 - [INFO] - server.py - Finished server process [6492]
+2026-06-04 09:43:50,616 - [INFO] - server.py - Started server process [15664]
+2026-06-04 09:43:50,622 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:43:50,636 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:43:50,638 - [INFO] - server.py - Shutting down
+2026-06-04 09:43:50,755 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:43:50,758 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:43:50,760 - [INFO] - server.py - Finished server process [15664]
+2026-06-04 09:43:56,239 - [INFO] - server.py - Started server process [19136]
+2026-06-04 09:43:56,251 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:43:56,258 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:43:56,262 - [INFO] - server.py - Shutting down
+2026-06-04 09:43:56,373 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:43:56,374 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:43:56,374 - [INFO] - server.py - Finished server process [19136]
+2026-06-04 09:44:02,070 - [INFO] - server.py - Started server process [472]
+2026-06-04 09:44:02,079 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:44:02,088 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:44:03,499 - [INFO] - server.py - Shutting down
+2026-06-04 09:44:03,600 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:44:03,603 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:44:03,606 - [INFO] - server.py - Finished server process [472]
+2026-06-04 09:44:08,883 - [INFO] - server.py - Started server process [21096]
+2026-06-04 09:44:08,889 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:44:08,895 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:44:26,980 - [INFO] - server.py - Shutting down
+2026-06-04 09:44:27,098 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:44:27,102 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:44:27,102 - [INFO] - server.py - Finished server process [21096]
+2026-06-04 09:44:32,071 - [INFO] - server.py - Started server process [16368]
+2026-06-04 09:44:32,071 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:44:32,087 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:44:52,715 - [INFO] - server.py - Shutting down
+2026-06-04 09:44:52,829 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:44:52,831 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:44:52,831 - [INFO] - server.py - Finished server process [16368]
+2026-06-04 09:44:58,055 - [INFO] - server.py - Started server process [20140]
+2026-06-04 09:44:58,057 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:44:58,074 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:44:58,074 - [INFO] - server.py - Shutting down
+2026-06-04 09:44:58,189 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:44:58,190 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:44:58,195 - [INFO] - server.py - Finished server process [20140]
+2026-06-04 09:45:03,292 - [INFO] - server.py - Started server process [412]
+2026-06-04 09:45:03,293 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:45:03,308 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:47:16,398 - [INFO] - server.py - Shutting down
+2026-06-04 09:47:16,513 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:47:16,515 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:47:16,515 - [INFO] - server.py - Finished server process [412]
+2026-06-04 09:47:29,856 - [INFO] - server.py - Started server process [13832]
+2026-06-04 09:47:29,871 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:47:29,909 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:47:35,219 - [INFO] - server.py - Shutting down
+2026-06-04 09:47:35,329 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:47:35,336 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:47:35,341 - [INFO] - server.py - Finished server process [13832]
+2026-06-04 09:47:45,898 - [INFO] - server.py - Started server process [21108]
+2026-06-04 09:47:45,913 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:47:45,932 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:47:45,932 - [INFO] - server.py - Shutting down
+2026-06-04 09:47:46,045 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:47:46,049 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:47:46,052 - [INFO] - server.py - Finished server process [21108]
+2026-06-04 09:47:53,815 - [INFO] - server.py - Started server process [19492]
+2026-06-04 09:47:53,821 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:47:53,841 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:47:54,267 - [INFO] - server.py - Shutting down
+2026-06-04 09:47:54,376 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:47:54,380 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:47:54,382 - [INFO] - server.py - Finished server process [19492]
+2026-06-04 09:48:00,317 - [INFO] - server.py - Started server process [20164]
+2026-06-04 09:48:00,329 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:48:00,337 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:50:41,767 - [WARNING] - main.py - Rejected upload attempt. Invalid MIME type: application/pdf
+2026-06-04 09:50:42,762 - [INFO] - vector_store.py - 'example.pdf' already exists in the database. Purging old chunks for an accurate overwrite...
+2026-06-04 09:50:43,062 - [INFO] - vector_store.py - Successfully invalidated and cleared stale cache history for file: example.pdf
+2026-06-04 09:50:43,063 - [INFO] - vector_store.py -  Embedding and storing fresh 7 chunks...
+2026-06-04 09:50:46,714 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 09:50:47,362 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 09:50:48,313 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 09:50:49,515 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 09:50:51,657 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 09:50:52,384 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 09:50:53,200 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 09:50:53,395 - [INFO] - vector_store.py - Successfully stored 7 chunks in the vector database.
+2026-06-04 09:56:07,373 - [INFO] - server.py - Shutting down
+2026-06-04 09:56:07,482 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:56:07,486 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:56:07,491 - [INFO] - server.py - Finished server process [20164]
+2026-06-04 09:56:18,957 - [INFO] - server.py - Started server process [9092]
+2026-06-04 09:56:18,971 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 09:56:18,994 - [INFO] - on.py - Application startup complete.
+2026-06-04 09:59:16,742 - [INFO] - server.py - Shutting down
+2026-06-04 09:59:16,848 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 09:59:16,852 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 09:59:16,852 - [INFO] - server.py - Finished server process [9092]
+2026-06-04 10:01:47,839 - [INFO] - server.py - Started server process [12704]
+2026-06-04 10:01:47,855 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:01:47,872 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:02:12,511 - [INFO] - server.py - Shutting down
+2026-06-04 10:02:12,619 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:02:12,621 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:02:12,621 - [INFO] - server.py - Finished server process [12704]
+2026-06-04 10:02:18,437 - [INFO] - server.py - Started server process [20836]
+2026-06-04 10:02:18,446 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:02:18,470 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:02:23,622 - [INFO] - vector_store.py - 'example.pdf' already exists in the database. Purging old chunks for an accurate overwrite...
+2026-06-04 10:02:23,820 - [INFO] - vector_store.py - Successfully invalidated and cleared stale cache history for file: example.pdf
+2026-06-04 10:02:23,827 - [INFO] - vector_store.py -  Embedding and storing fresh 7 chunks...
+2026-06-04 10:02:25,941 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:02:26,111 - [ERROR] - main.py - Database ingestion crashed for file 'example.pdf': Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+Traceback (most recent call last):
+  File "C:\Users\PMYLS\Desktop\AiProject\main.py", line 47, in upload_file
+    store_data = store_chunk_in_db(processed_chunk,collection_name,source_filename=file.filename)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\Desktop\AiProject\services\vector_store.py", line 40, in store_chunk_in_db
+    collection.add(documents=chunks, embeddings=embedding_list, ids=ids_list, metadatas=metadata_list)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\Collection.py", line 109, in add
+    add_request = self._validate_and_prepare_add_request(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 103, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 235, in _validate_and_prepare_add_request
+    validate_insert_record_set(record_set=add_records)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 442, in validate_insert_record_set
+    _validate_record_set_length_consistency(record_set)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 473, in _validate_record_set_length_consistency
+    raise ValueError(f"Unequal lengths for fields: {error_str}")
+ValueError: Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+2026-06-04 10:04:31,667 - [INFO] - server.py - Shutting down
+2026-06-04 10:04:31,783 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:04:31,784 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:04:31,787 - [INFO] - server.py - Finished server process [20836]
+2026-06-04 10:05:14,567 - [INFO] - server.py - Started server process [10292]
+2026-06-04 10:05:14,567 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:05:14,592 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:05:33,851 - [INFO] - vector_store.py -  Embedding and storing fresh 7 chunks...
+2026-06-04 10:05:35,172 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:05:35,274 - [ERROR] - main.py - Database ingestion crashed for file 'example.pdf': Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+Traceback (most recent call last):
+  File "C:\Users\PMYLS\Desktop\AiProject\main.py", line 47, in upload_file
+    store_data = store_chunk_in_db(processed_chunk,collection_name,source_filename=file.filename)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\Desktop\AiProject\services\vector_store.py", line 40, in store_chunk_in_db
+    collection.add(documents=chunks, embeddings=embedding_list, ids=ids_list, metadatas=metadata_list)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\Collection.py", line 109, in add
+    add_request = self._validate_and_prepare_add_request(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 103, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 235, in _validate_and_prepare_add_request
+    validate_insert_record_set(record_set=add_records)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 442, in validate_insert_record_set
+    _validate_record_set_length_consistency(record_set)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 473, in _validate_record_set_length_consistency
+    raise ValueError(f"Unequal lengths for fields: {error_str}")
+ValueError: Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+2026-06-04 10:08:06,803 - [INFO] - server.py - Shutting down
+2026-06-04 10:08:06,914 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:08:06,921 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:08:06,925 - [INFO] - server.py - Finished server process [10292]
+2026-06-04 10:08:51,952 - [INFO] - server.py - Started server process [836]
+2026-06-04 10:08:51,956 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:08:51,967 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:09:16,748 - [INFO] - server.py - Shutting down
+2026-06-04 10:09:16,856 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:09:16,856 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:09:16,856 - [INFO] - server.py - Finished server process [836]
+2026-06-04 10:09:24,948 - [INFO] - server.py - Started server process [20804]
+2026-06-04 10:09:24,954 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:09:24,967 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:09:38,456 - [INFO] - server.py - Shutting down
+2026-06-04 10:09:38,558 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:09:38,558 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:09:38,558 - [INFO] - server.py - Finished server process [20804]
+2026-06-04 10:10:17,709 - [INFO] - server.py - Started server process [16348]
+2026-06-04 10:10:17,717 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:10:17,717 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:10:19,139 - [INFO] - server.py - Shutting down
+2026-06-04 10:10:19,252 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:10:19,255 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:10:19,255 - [INFO] - server.py - Finished server process [16348]
+2026-06-04 10:10:34,673 - [INFO] - server.py - Started server process [6768]
+2026-06-04 10:10:34,673 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:10:34,698 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:10:34,698 - [INFO] - server.py - Shutting down
+2026-06-04 10:10:34,813 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:10:34,817 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:10:34,818 - [INFO] - server.py - Finished server process [6768]
+2026-06-04 10:10:42,052 - [INFO] - server.py - Started server process [19468]
+2026-06-04 10:10:42,058 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:10:42,065 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:10:42,396 - [INFO] - server.py - Shutting down
+2026-06-04 10:10:42,513 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:10:42,515 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:10:42,521 - [INFO] - server.py - Finished server process [19468]
+2026-06-04 10:10:50,010 - [INFO] - server.py - Started server process [13612]
+2026-06-04 10:10:50,016 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:10:50,034 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:10:50,046 - [INFO] - server.py - Shutting down
+2026-06-04 10:10:50,152 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:10:50,152 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:10:50,152 - [INFO] - server.py - Finished server process [13612]
+2026-06-04 10:10:56,882 - [INFO] - server.py - Started server process [19884]
+2026-06-04 10:10:56,896 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:10:56,917 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:11:11,354 - [INFO] - server.py - Shutting down
+2026-06-04 10:11:11,462 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:11:11,464 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:11:11,466 - [INFO] - server.py - Finished server process [19884]
+2026-06-04 10:11:16,790 - [INFO] - server.py - Started server process [19404]
+2026-06-04 10:11:16,798 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:11:16,798 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:11:16,808 - [INFO] - server.py - Shutting down
+2026-06-04 10:11:16,913 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:11:16,914 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:11:16,914 - [INFO] - server.py - Finished server process [19404]
+2026-06-04 10:11:32,263 - [INFO] - server.py - Started server process [17888]
+2026-06-04 10:11:32,263 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:11:32,271 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:11:32,271 - [INFO] - server.py - Shutting down
+2026-06-04 10:11:32,387 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:11:32,387 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:11:32,391 - [INFO] - server.py - Finished server process [17888]
+2026-06-04 10:11:37,727 - [INFO] - server.py - Started server process [20156]
+2026-06-04 10:11:37,731 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:11:37,749 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:11:37,752 - [INFO] - server.py - Shutting down
+2026-06-04 10:11:37,855 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:11:37,855 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:11:37,862 - [INFO] - server.py - Finished server process [20156]
+2026-06-04 10:11:43,272 - [INFO] - server.py - Started server process [18072]
+2026-06-04 10:11:43,272 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:11:43,286 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:12:58,677 - [INFO] - server.py - Shutting down
+2026-06-04 10:12:58,792 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:12:58,796 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:12:58,796 - [INFO] - server.py - Finished server process [18072]
+2026-06-04 10:13:12,380 - [INFO] - server.py - Started server process [15080]
+2026-06-04 10:13:12,403 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:13:12,427 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:14:20,096 - [INFO] - vector_store.py -  Embedding and storing fresh 7 chunks...
+2026-06-04 10:14:21,610 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:14:21,714 - [ERROR] - main.py - Database ingestion crashed for file 'example.pdf': Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+Traceback (most recent call last):
+  File "C:\Users\PMYLS\Desktop\AiProject\main.py", line 47, in upload_file
+    store_data = store_chunk_in_db(processed_chunk,collection_name,source_filename=file.filename)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\Desktop\AiProject\services\vector_store.py", line 48, in store_chunk_in_db
+    collection.add(documents=chunks, embeddings=embedding_list, ids=ids_list, metadatas=metadata_list)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\Collection.py", line 109, in add
+    add_request = self._validate_and_prepare_add_request(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 103, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 235, in _validate_and_prepare_add_request
+    validate_insert_record_set(record_set=add_records)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 442, in validate_insert_record_set
+    _validate_record_set_length_consistency(record_set)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 473, in _validate_record_set_length_consistency
+    raise ValueError(f"Unequal lengths for fields: {error_str}")
+ValueError: Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+2026-06-04 10:14:44,523 - [INFO] - vector_store.py -  Embedding and storing fresh 7 chunks...
+2026-06-04 10:14:47,012 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:14:47,519 - [ERROR] - main.py - Database ingestion crashed for file 'example.pdf': Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+Traceback (most recent call last):
+  File "C:\Users\PMYLS\Desktop\AiProject\main.py", line 47, in upload_file
+    store_data = store_chunk_in_db(processed_chunk,collection_name,source_filename=file.filename)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\Desktop\AiProject\services\vector_store.py", line 48, in store_chunk_in_db
+    collection.add(documents=chunks, embeddings=embedding_list, ids=ids_list, metadatas=metadata_list)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\Collection.py", line 109, in add
+    add_request = self._validate_and_prepare_add_request(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 103, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 235, in _validate_and_prepare_add_request
+    validate_insert_record_set(record_set=add_records)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 442, in validate_insert_record_set
+    _validate_record_set_length_consistency(record_set)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 473, in _validate_record_set_length_consistency
+    raise ValueError(f"Unequal lengths for fields: {error_str}")
+ValueError: Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+2026-06-04 10:16:17,541 - [INFO] - server.py - Shutting down
+2026-06-04 10:16:17,659 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:16:17,659 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:16:17,659 - [INFO] - server.py - Finished server process [15080]
+2026-06-04 10:16:30,559 - [INFO] - server.py - Started server process [11352]
+2026-06-04 10:16:30,571 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:16:30,595 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:16:30,600 - [INFO] - server.py - Shutting down
+2026-06-04 10:16:30,709 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:16:30,711 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:16:30,714 - [INFO] - server.py - Finished server process [11352]
+2026-06-04 10:16:37,341 - [INFO] - server.py - Started server process [20656]
+2026-06-04 10:16:37,350 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:16:37,367 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:16:49,197 - [INFO] - vector_store.py -  Embedding and storing fresh 7 chunks...
+2026-06-04 10:16:50,499 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:16:50,570 - [ERROR] - main.py - Database ingestion crashed for file 'example.pdf': Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+Traceback (most recent call last):
+  File "C:\Users\PMYLS\Desktop\AiProject\main.py", line 47, in upload_file
+    store_data = store_chunk_in_db(processed_chunk,collection_name,source_filename=file.filename)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\Desktop\AiProject\services\vector_store.py", line 48, in store_chunk_in_db
+    collection.add(documents=chunks, embeddings=embedding_list, ids=ids_list, metadatas=metadata_list)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\Collection.py", line 109, in add
+    add_request = self._validate_and_prepare_add_request(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 103, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 235, in _validate_and_prepare_add_request
+    validate_insert_record_set(record_set=add_records)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 442, in validate_insert_record_set
+    _validate_record_set_length_consistency(record_set)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 473, in _validate_record_set_length_consistency
+    raise ValueError(f"Unequal lengths for fields: {error_str}")
+ValueError: Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+2026-06-04 10:18:32,925 - [INFO] - server.py - Shutting down
+2026-06-04 10:18:33,040 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:18:33,045 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:18:33,047 - [INFO] - server.py - Finished server process [20656]
+2026-06-04 10:18:46,882 - [INFO] - server.py - Started server process [21080]
+2026-06-04 10:18:46,893 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:18:46,905 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:18:47,313 - [INFO] - vector_store.py - Embedding and storing fresh 7 chunks...
+2026-06-04 10:18:48,564 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:18:48,773 - [ERROR] - main.py - Database ingestion crashed for file 'example.pdf': Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+Traceback (most recent call last):
+  File "C:\Users\PMYLS\Desktop\AiProject\main.py", line 47, in upload_file
+    store_data = store_chunk_in_db(processed_chunk,collection_name,source_filename=file.filename)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\Desktop\AiProject\services\vector_store.py", line 54, in store_chunk_in_db
+    collection.add(documents=chunks, embeddings=embedding_list, ids=ids_list, metadatas=metadata_list)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\Collection.py", line 109, in add
+    add_request = self._validate_and_prepare_add_request(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 103, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 235, in _validate_and_prepare_add_request
+    validate_insert_record_set(record_set=add_records)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 442, in validate_insert_record_set
+    _validate_record_set_length_consistency(record_set)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 473, in _validate_record_set_length_consistency
+    raise ValueError(f"Unequal lengths for fields: {error_str}")
+ValueError: Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+2026-06-04 10:19:19,374 - [INFO] - vector_store.py - Embedding and storing fresh 7 chunks...
+2026-06-04 10:19:20,726 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:19:20,815 - [ERROR] - main.py - Database ingestion crashed for file 'example.pdf': Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+Traceback (most recent call last):
+  File "C:\Users\PMYLS\Desktop\AiProject\main.py", line 47, in upload_file
+    store_data = store_chunk_in_db(processed_chunk,collection_name,source_filename=file.filename)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\Desktop\AiProject\services\vector_store.py", line 54, in store_chunk_in_db
+    collection.add(documents=chunks, embeddings=embedding_list, ids=ids_list, metadatas=metadata_list)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\Collection.py", line 109, in add
+    add_request = self._validate_and_prepare_add_request(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 103, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 235, in _validate_and_prepare_add_request
+    validate_insert_record_set(record_set=add_records)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 442, in validate_insert_record_set
+    _validate_record_set_length_consistency(record_set)
+  File "C:\Users\PMYLS\anaconda3\envs\ai_env\Lib\site-packages\chromadb\api\types.py", line 473, in _validate_record_set_length_consistency
+    raise ValueError(f"Unequal lengths for fields: {error_str}")
+ValueError: Unequal lengths for fields: ids: 7, metadatas: 7, embeddings: 1, documents: 7 in add.
+2026-06-04 10:21:49,505 - [INFO] - server.py - Shutting down
+2026-06-04 10:21:49,614 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:21:49,614 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:21:49,620 - [INFO] - server.py - Finished server process [21080]
+2026-06-04 10:21:59,425 - [INFO] - server.py - Started server process [16224]
+2026-06-04 10:21:59,436 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:21:59,456 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:22:01,280 - [INFO] - server.py - Shutting down
+2026-06-04 10:22:01,388 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:22:01,389 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:22:01,389 - [INFO] - server.py - Finished server process [16224]
+2026-06-04 10:23:01,939 - [INFO] - server.py - Started server process [3460]
+2026-06-04 10:23:01,943 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:23:01,947 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:23:05,920 - [INFO] - server.py - Shutting down
+2026-06-04 10:23:06,038 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:23:06,038 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:23:06,038 - [INFO] - server.py - Finished server process [3460]
+2026-06-04 10:23:11,349 - [INFO] - server.py - Started server process [6068]
+2026-06-04 10:23:11,362 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:23:11,371 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:23:14,392 - [INFO] - server.py - Shutting down
+2026-06-04 10:23:14,512 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:23:14,515 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:23:14,515 - [INFO] - server.py - Finished server process [6068]
+2026-06-04 10:23:21,139 - [INFO] - server.py - Started server process [20864]
+2026-06-04 10:23:21,149 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:23:21,175 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:23:49,039 - [INFO] - server.py - Shutting down
+2026-06-04 10:23:49,144 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:23:49,144 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:23:49,144 - [INFO] - server.py - Finished server process [20864]
+2026-06-04 10:23:54,397 - [INFO] - server.py - Started server process [14820]
+2026-06-04 10:23:54,417 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:23:54,420 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:23:54,429 - [INFO] - server.py - Shutting down
+2026-06-04 10:23:54,537 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:23:54,537 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:23:54,537 - [INFO] - server.py - Finished server process [14820]
+2026-06-04 10:23:59,688 - [INFO] - server.py - Started server process [15080]
+2026-06-04 10:23:59,698 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:23:59,708 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:23:59,709 - [INFO] - server.py - Shutting down
+2026-06-04 10:23:59,819 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:23:59,834 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:23:59,845 - [INFO] - server.py - Finished server process [15080]
+2026-06-04 10:24:06,661 - [INFO] - server.py - Started server process [2920]
+2026-06-04 10:24:06,661 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:24:06,679 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:24:06,950 - [INFO] - vector_store.py - Embedding and storing fresh 7 chunks...
+2026-06-04 10:24:08,257 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:24:08,960 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:24:09,589 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:24:10,201 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:24:10,714 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:24:11,326 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:24:11,938 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 10:24:12,181 - [INFO] - vector_store.py - Successfully stored 7 chunks in the vector database.
+2026-06-04 10:31:38,053 - [INFO] - server.py - Shutting down
+2026-06-04 10:31:38,163 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:31:38,164 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:31:38,165 - [INFO] - server.py - Finished server process [2920]
+2026-06-04 10:31:42,881 - [INFO] - server.py - Started server process [20208]
+2026-06-04 10:31:42,887 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:31:42,895 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:31:42,896 - [INFO] - server.py - Shutting down
+2026-06-04 10:31:43,002 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:31:43,003 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:31:43,003 - [INFO] - server.py - Finished server process [20208]
+2026-06-04 10:31:46,902 - [INFO] - server.py - Started server process [11420]
+2026-06-04 10:31:46,907 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:31:46,911 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:31:46,911 - [INFO] - server.py - Shutting down
+2026-06-04 10:31:47,028 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:31:47,032 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:31:47,035 - [INFO] - server.py - Finished server process [11420]
+2026-06-04 10:31:50,610 - [INFO] - server.py - Started server process [20012]
+2026-06-04 10:31:50,618 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:31:50,635 - [INFO] - on.py - Application startup complete.
+2026-06-04 10:32:07,049 - [INFO] - server.py - Shutting down
+2026-06-04 10:32:07,158 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 10:32:07,160 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 10:32:07,162 - [INFO] - server.py - Finished server process [20012]
+2026-06-04 10:32:10,903 - [INFO] - server.py - Started server process [18168]
+2026-06-04 10:32:10,903 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 10:32:10,918 - [INFO] - on.py - Application startup complete.
+2026-06-04 11:10:04,705 - [INFO] - server.py - Shutting down
+2026-06-04 11:10:04,972 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 11:10:04,987 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 11:10:04,996 - [INFO] - server.py - Finished server process [18168]
+2026-06-04 11:10:14,965 - [INFO] - server.py - Started server process [22324]
+2026-06-04 11:10:14,975 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 11:10:14,983 - [INFO] - on.py - Application startup complete.
+2026-06-04 11:10:20,810 - [INFO] - server.py - Shutting down
+2026-06-04 11:10:20,923 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 11:10:20,923 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 11:10:20,927 - [INFO] - server.py - Finished server process [22324]
+2026-06-04 11:10:26,225 - [INFO] - server.py - Started server process [15504]
+2026-06-04 11:10:26,225 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 11:10:26,245 - [INFO] - on.py - Application startup complete.
+2026-06-04 11:10:42,525 - [INFO] - server.py - Shutting down
+2026-06-04 11:10:42,636 - [INFO] - on.py - Waiting for application shutdown.
+2026-06-04 11:10:42,636 - [INFO] - on.py - Application shutdown complete.
+2026-06-04 11:10:42,636 - [INFO] - server.py - Finished server process [15504]
+2026-06-04 11:10:48,487 - [INFO] - server.py - Started server process [23012]
+2026-06-04 11:10:48,499 - [INFO] - on.py - Waiting for application startup.
+2026-06-04 11:10:48,503 - [INFO] - on.py - Application startup complete.
+2026-06-04 11:10:57,211 - [INFO] - vector_store.py - 'example.pdf' already exists in the database. Purging old chunks for an accurate overwrite...
+2026-06-04 11:10:57,361 - [INFO] - vector_store.py - Successfully invalidated and cleared stale cache history for file: example.pdf
+2026-06-04 11:10:57,361 - [INFO] - vector_store.py - Embedding and storing fresh 7 chunks...
+2026-06-04 11:10:59,805 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 11:11:00,700 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 11:11:01,293 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 11:11:01,955 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 11:11:02,554 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 11:11:03,117 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 11:11:03,704 - [INFO] - _client.py - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-2:batchEmbedContents "HTTP/1.1 200 OK"
+2026-06-04 11:11:04,104 - [INFO] - vector_store.py - Successfully stored 7 chunks in the vector database.
+2026-06-04 11:11:13,477 - [INFO] - search_engine.py - Cache Miss: No matching records found in cache index.
+2026-06-04 11:11:13,477 - [INFO] - search_engine.py - Retrieving context fragments from document collection: test_collection
+2026-06-04 11:11:13,486 - [INFO] - models.py - AFC is enabled with max remote calls: 10.
+2026-06-04 11:11:15,121 - [INFO] - search_engine.py - Caching new query-response set in 'answer_cache' collection.
