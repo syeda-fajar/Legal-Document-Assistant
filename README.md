@@ -11,6 +11,8 @@ A multi-tenant Retrieval-Augmented Generation (RAG) pipeline for legal and docum
 * **Validation Layer:** Rejects invalid media types (non-PDF files) and detects files that yield zero extractable text (such as scanned images missing an OCR layer) before hitting background embedding routines.
 * **Production Error Mapping:** Translates database states and third-party API rate limits directly into standard HTTP web responses (`404 Not Found`, `503 Service Unavailable`, `502 Bad Gateway`).
 * **Persistent Diagnostic Logging:** Routes system milestones and full multi-line tracebacks concurrently to the terminal console and an internal `backend_errors.log` file for offline auditing.
+- **API Key Header Authentication:** Secures all production endpoints using an `X-API-Key` header verified via timing-attack-safe string comparisons (`secrets.compare_digest`).
+- **Router-Level Dependency Injection:** Enforces global security automatically across route groups via `APIRouter` dependencies, eliminating manual per-route checks and preventing accidental exposure.
 
 ---
 
@@ -39,6 +41,9 @@ To ensure the embedding system remains clean and predictable across repeated upl
 ### 4. Transport-Layer Exception Consolidation (Endpoint vs. Service Level Error Handling)
 I intentionally designed the service layer functions to throw standard Python exceptions (such as `ValueError`) rather than embedding FastAPI-specific `HTTPException` dependencies directly within database operations. This adheres to the separation of concerns principle. It leaves the core RAG service completely framework-agnostic, while consolidating all web-transport translations, payload logging, and HTTP status code tracking inside the router endpoints.
 
+### 5. API Key Security & Timing-Attack Mitigation
+To protect endpoints from unauthorized resource exhaustion and data scraping without introducing heavy user-session state, the API relies on header-based token authentication (`X-API-Key`). Key verification uses Python's `secrets.compare_digest()` . This guarantees constant-time execution, preventing malicious actors from performing side-channel timing attacks to guess the secret key character-by-character, while gracefully handling Unicode inputs.
+
 ---
 
 ## Known Limitations & Engineering Trade-offs
@@ -47,6 +52,7 @@ I intentionally designed the service layer functions to throw standard Python ex
 * **Lack of Optical Character Recognition (OCR):** Document parsing depends entirely on standard structural text extraction strings. PDFs consisting of raw scanned images yield zero characters, prompting a termination guard rather than falling back to an OCR conversion step.
 * **Single-Node Local Storage Model:** ChromaDB runs in embedded memory mode with file persistence bound to the host filesystem. This layout cannot scale horizontally across multiple container nodes or distributed cloud environments without transitioning to an independent, client-server database deployment.
 * **Stateless Conversational Execution:** The `/ask/` endpoint runs statelessly and lacks an underlying session database or caching history. The model processes each incoming question independently, preventing multi-turn conversational follow-ups or reference tracking.
+- **Static API Key Model:** Authentication relies on a single shared administrative API key (`X-API-Key`) loaded from environment variables rather than a multi-tenant user database. While sufficient for single-client deployments or personal automation pipelines, scaling to multi-client SaaS usage requires migrating to hashed keys stored in a relational database table.
 
 ---
 
@@ -130,3 +136,6 @@ Once the application initializes, access the interactive documentation page dire
 http://127.0.0.1:8000/docs
 
 You can use this portal to test sample multipart upload payloads and structured query routes directly from your browser.
+
+
+
