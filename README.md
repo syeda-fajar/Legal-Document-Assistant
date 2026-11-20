@@ -318,11 +318,3 @@ Open the interactive docs at `http://127.0.0.1:8000/docs`.
 
 ---
 
-## Roadmap
-
-1. `POST /agent/ask/` with schemas, `X-API-Key`, error handling and trace logging.
-2. Switch between Gemini and local model with environment variables.
-3. Planning step for multi-part questions, compared on the same test set.
-4. Check each claim against the retrieved text before answering (to reduce invented answers).
-5. More documents in the test set, including questions that need two files.
-6. A few automated tests, a Dockerfile and settings from environment variables.
