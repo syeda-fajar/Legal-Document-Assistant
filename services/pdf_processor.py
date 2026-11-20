@@ -38,7 +38,7 @@ def get_page_number(start_idx: int, page_boundries: list[dict]) -> int:
 
 def chunk_text_with_metadata(text: str, page_boundries: list[dict], filename: str, chunk_size: int = 500, chunk_overlap: int = 50) -> list[dict]:
     """
-    Chunks global text while mapping each chunk's start index back to its page boundary.
+    Chunks text and maps spans to page ranges formatted as safe strings for ChromaDB.
     """
     chunks_with_meta = []
     start = 0
@@ -57,21 +57,41 @@ def chunk_text_with_metadata(text: str, page_boundries: list[dict], filename: st
                 end = space_index
 
         chunk = text[start:end]
-        chunk_start = start
+        if not chunk.strip():
+            start = end 
+            continue
         
-        page_num = get_page_number(chunk_start, page_boundries)
+        # Find all touched pages
+        touched_pages = []
+        if page_boundries:
+            for pb in page_boundries:
+                if pb["start"] < end and pb["end"] > start:
+                    touched_pages.append(pb["page_number"])
+        
+        if not touched_pages:
+            touched_pages = [1]
+        
+        # Format as a ChromaDB-safe scalar string ("1" or "1-2")
+        if len(touched_pages) == 1:
+            page_meta_val = str(touched_pages[0])
+        else:
+            page_meta_val = f"{touched_pages[0]}-{touched_pages[-1]}"
         
         chunks_with_meta.append({
             "document": chunk,
             "metadata": {
                 "source_filename": filename,
-                "page_number": page_num
+                "page_number": page_meta_val  # Keeps existing key as a safe string
             }
         })
         
         if end == text_length:
             break
             
-        start = end - chunk_overlap
-        
+        new_start = end - chunk_overlap
+        if new_start <= start:
+            start = end
+        else:
+            start = new_start
+            
     return chunks_with_meta

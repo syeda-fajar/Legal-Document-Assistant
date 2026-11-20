@@ -4,7 +4,7 @@ class QuestionRequest(BaseModel):
     question:str
     filename:str
     collection_name:str
-
+    session_id: Optional[str] = None
 class GeminiAnswerResponse(BaseModel):
     answer: str
     found: bool

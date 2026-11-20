@@ -5,6 +5,7 @@ from io import BytesIO
 import logging
 import sys
 from schema import QuestionRequest, RAGAnswerResponse, AskResponseWrapper
+from services.memory import memory_store, rewrite_question
 
 from fastapi import FastAPI, File, UploadFile, HTTPException, status, Security, Depends, APIRouter
 from fastapi.security.api_key import APIKeyHeader
@@ -14,6 +15,8 @@ from services.vector_store import store_chunk_in_db
 from services.search_engine import answer_document_question
 from schema import QuestionRequest
 from google.genai import errors
+
+from fastapi.security import APIKeyHeader
 
 
 log_format = "%(asctime)s - [%(levelname)s] - %(filename)s - %(message)s"
@@ -30,24 +33,22 @@ logger = logging.getLogger(__name__)
 API_KEY_NAME = "X-API-Key"
 VALID_API_KEY = "my_api_key"
 
+
 api_key_header = APIKeyHeader(name=API_KEY_NAME, auto_error=True)
 
 async def verify_api_key(incoming_key: str = Security(api_key_header)):
-    incoming_bytes = incoming_key.encode("utf-8")
-    valid_bytes = VALID_API_KEY.encode("utf-8")
-    
-    if not secrets.compare_digest(incoming_bytes, valid_bytes):
+    if not secrets.compare_digest(incoming_key.encode("utf-8"), VALID_API_KEY.encode("utf-8")):
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Invalid API Key provided."
         )
     return incoming_key
 
-router = APIRouter(
-    dependencies=[Depends(verify_api_key)]
-)
+app = FastAPI(title="Legal RAG API")
 
-app = FastAPI()
+
+router = APIRouter(
+    dependencies=[Depends(verify_api_key)])
 
 @router.post("/upload/")
 async def upload_file(file: Annotated[UploadFile, File()], collection_name: str):
@@ -61,7 +62,6 @@ async def upload_file(file: Annotated[UploadFile, File()], collection_name: str)
     pdf_file = await file.read()
     pdf_stream = BytesIO(pdf_file)
     
-    # 1. Unpack the tuple (full text string + page boundary markers)
     full_text, page_boundaries = extract_text_from_pdf(pdf_stream)
     
     if not full_text or not full_text.strip():
@@ -71,7 +71,6 @@ async def upload_file(file: Annotated[UploadFile, File()], collection_name: str)
             detail="The uploaded PDF contains no extractable text. Please ensure the document is not completely empty or corrupted."
         )
         
-    # 2. Generate chunks bundled with filename and accurate page number metadata
     processed_chunks = chunk_text_with_metadata(
         text=full_text,
         page_boundries=page_boundaries,
@@ -102,12 +101,31 @@ async def upload_file(file: Annotated[UploadFile, File()], collection_name: str)
 @router.post("/ask/", response_model=AskResponseWrapper)
 async def user_query(request: QuestionRequest):
     try:
-        answer = await answer_document_question(request.question, request.collection_name, source_filename=request.filename)
+        
+        history = memory_store.get_history(request.session_id)
+        
+       
+        standalone_query = rewrite_question(history, request.question)
+        
+        answer_result = await answer_document_question(
+            standalone_query, 
+            request.collection_name, 
+            source_filename=request.filename
+        )
+        
+    
+        answer_text = answer_result.get("answer") if isinstance(answer_result, dict) else str(answer_result)
+        is_found = answer_result.get("found", True) if isinstance(answer_result, dict) else True
+
+        if request.session_id and is_found:
+            memory_store.add_turn(request.session_id, request.question, answer_text)
+        
         return {
             "status": "success",
             "filename": request.filename,
             "question": request.question,
-            "answer": answer
+            "rewritten_question": standalone_query,
+            "answer": answer_result
         }
     except ValueError:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="collection dont exist")

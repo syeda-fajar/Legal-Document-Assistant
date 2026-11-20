@@ -1,0 +1,28 @@
+id,question,expected_answer,model_answer,sources,auto_correct,num_steps,broken_json,type,seconds
+1,Which law firm issued the legal notice?,Pk-Legal and Associates,NOT FOUND,[],False,3,1,in_text,73.89
+2,What is the exact PKR amount demanded in the notice?,NOT FOUND,PKR [amount],"[{""file"": ""contract.pdf"", ""page"": ""2""}]",False,2,0,not_in_text,35.25
+3,Under which sections are Breach of Contract and Relief Demanded listed?,Section 2 (Breach of Contract) and Section 3 (Relief Demanded),NOT FOUND,[],False,5,0,two_places,61.86
+4,How does the compliance deadline in contract.pdf compare to disputes.pdf?,NOT FOUND,SKIPPED,,,0,0,two_files,0.0
+5,"If a notice gives 7 days to comply and an extension adds 15 days, how many total days is that?",22 days,22,[],False,2,0,calc,12.14
+6,What is the subject of the legal notice?,Legal Notice for Breach of Contract,NOT FOUND,[],False,3,1,in_text,46.1
+7,What is the typical number of days given to fulfill contractual obligations after receiving the notice?,7-15 days,7-15 days,"[{""file"": ""contract.pdf"", ""page"": ""2""}]",True,2,0,in_text,33.85
+8,Under which country's law does the client reserve the right to seek remedies and file suit?,Pakistani law,Pakistani law,"[{""file"": ""contract.pdf"", ""page"": ""2""}]",True,2,0,in_text,29.89
+9,What two delivery methods are recommended to ensure proof of delivery?,registered mail or courier,Registered mail and courier services are recommended to ensure proof of delivery.,"[{""file"": ""contract.pdf"", ""page"": ""2""}]",False,5,0,in_text,51.28
+10,What documents should be kept for future reference in legal proceedings according to Record Keeping?,"contract, communications, and the proof of delivery",NOT FOUND,[],False,3,1,in_text,38.26
+11,What happens if the recipient fails to comply within the stipulated time according to Section 4?,file a lawsuit in the competent court of law without any further notice,"If you fail to comply with this notice within the stipulated time, we will proceed to file a lawsuit against you in the competent court of law without any further notice. You will bear the full responsibility for all legal costs and","[{""file"": ""contract.pdf"", ""page"": ""2""}]",False,2,0,in_text,39.8
+12,What is the exact court name and city where the lawsuit will be filed?,NOT FOUND,"Court of the District Courts, Lahore.","[{""file"": ""contract.pdf"", ""page"": ""2""}]",False,3,2,not_in_text,54.19
+13,What is the 30-day penalty interest rate mentioned in the notice?,NOT FOUND,Typically 7-15 days,"[{""file"": ""contract.pdf"", ""page"": ""2""}]",False,4,2,not_in_text,72.38
+14,How many PKR in court charges has the client already paid?,NOT FOUND,"100,000,000","[{""file"": ""contract.pdf"", ""page"": ""2""}]",False,3,0,not_in_text,37.82
+15,What is the exact date the original contract was signed?,NOT FOUND,"January 31, 1970","[{""file"": ""contract.pdf"", ""page"": ""1""}]",False,3,0,not_in_text,41.56
+16,Who is responsible for legal fees and court charges in both Section 3 and Section 4?,You,"You will be held responsible for all costs incurred, including legal fees and court charges.","[{""file"": ""contract.pdf"", ""page"": ""2""}]",True,2,0,two_places,28.56
+17,"If damages are PKR 45,000, legal fees are PKR 12,500, and court charges are PKR 3,750, what is the total PKR owed?","61,250",61250,[],False,2,0,calc,13.0
+18,"If a breach claim is PKR 80,000 and legal fees add 15% on top, what is the total PKR amount?","92,000",92000,[],False,2,0,calc,11.58
+19,"If the notice is received on January 20 and the recipient has 15 days to comply, what is the exact deadline date?",February 4,2023-02-04,[],False,2,0,calc,14.3
+20,"If a 15-day compliance window starts on February 24 in a non-leap year, what is the exact deadline date?",March 11,"March 10, 2024",[],False,2,0,calc,13.6
+21,"If a notice is served on April 22 and gives 14 days to respond, what is the exact deadline date?",May 6,2023-05-06,"[{""file"": ""notice.pdf"", ""page"": ""1""}]",False,2,0,calc,13.75
+22,"If a contract breach occurs on October 25 and a 12-day grace period applies, what is the exact deadline date?",November 6,November 6,[],True,2,0,calc,13.27
+23,"If a 20-day compliance period starts on November 18, what is the exact deadline date?",December 8,"December 8, 2023","[{""file"": ""compliance_period.pdf"", ""page"": ""1""}]",True,2,0,calc,14.63
+24,"If total damages are PKR 125,000 and the client recovers 35% in an initial settlement, how much PKR is recovered?","43,750",43750,[],False,2,0,calc,12.32
+25,"If legal fees are PKR 64,000 and a 12.5% tax is added, what is the total PKR payable?","72,000",72000,[],False,2,0,calc,11.97
+26,"If four invoices are PKR 18,450, PKR 27,300, PKR 9,875, and PKR 41,225, what is their total sum in PKR?","96,850",96860,[],False,2,0,calc,12.75
+27,"If damages of PKR 150,000 have three partial payments deducted—PKR 32,500, PKR 48,750, and PKR 19,250—how much PKR remains unpaid?","49,500",49500,[],False,2,0,calc,13.4
