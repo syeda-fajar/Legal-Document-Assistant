@@ -78,7 +78,7 @@ async def upload_file(file: Annotated[UploadFile, File()], collection_name: str)
     )
     
     try:
-        # 3. Store structured chunks in ChromaDB
+
         store_data = store_chunk_in_db(
             chunks_with_metadata=processed_chunks, 
             collection_name=collection_name, 

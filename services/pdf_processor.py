@@ -70,8 +70,7 @@ def chunk_text_with_metadata(text: str, page_boundries: list[dict], filename: st
         
         if not touched_pages:
             touched_pages = [1]
-        
-        # Format as a ChromaDB-safe scalar string ("1" or "1-2")
+      
         if len(touched_pages) == 1:
             page_meta_val = str(touched_pages[0])
         else:
@@ -81,7 +80,7 @@ def chunk_text_with_metadata(text: str, page_boundries: list[dict], filename: st
             "document": chunk,
             "metadata": {
                 "source_filename": filename,
-                "page_number": page_meta_val  # Keeps existing key as a safe string
+                "page_number": page_meta_val  
             }
         })
         

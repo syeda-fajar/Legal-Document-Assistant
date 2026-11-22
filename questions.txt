@@ -1,0 +1,29 @@
+Question: Which law firm issued the legal notice?
+
+Expected Answer: Pk-Legal and Associates
+
+Question: What is the subject of the legal notice?
+
+Expected Answer: Legal Notice for Breach of Contract
+
+Question: What is the typical number of days given to fulfill contractual obligations after receiving the notice?
+
+Expected Answer: 7-15 days
+
+Question: Under which country's law does the client reserve the right to seek remedies and file suit?
+
+Expected Answer: Pakistani law
+
+Question: What two delivery methods are recommended to ensure proof of delivery?
+
+Expected Answer: Registered mail or courier
+
+Question: What documents should be kept for future reference in legal proceedings according to Record Keeping?
+
+Expected Answer: Contract, communications, and the proof of delivery
+
+Question: What happens if the recipient fails to comply within the stipulated time according to Section 4?
+
+Expected Answer: File a lawsuit in the competent court of law without any further notice (and bear full responsibility for legal costs and damages)
+
+2. Multi-Section Questions (two_places)

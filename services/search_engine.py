@@ -92,13 +92,13 @@ async def answer_document_question(question: str, collection_name: str, source_f
         fname = meta.get("source_filename", source_filename)
         page_num = meta.get("page_number")
         
-        # Build clean citation label
+   
         source_label = f"{fname}, Page {page_num}" if page_num is not None else fname
         if source_label not in seen_sources:
             seen_sources.add(source_label)
             formatted_sources.append(source_label)
             
-        # Wrap each chunk with its source/page tag for Gemini's visibility
+       
         header = f"[{source_label}]"
         context_parts.append(f"{header}\n{doc}")
 
